@@ -19,3 +19,12 @@ form{
     align-items: center;
     gap: 10px;
 }
+
+@media (max-width: 785px){
+    .container img{
+        width:  80%;
+        height: auto;
+    }
+
+    
+}

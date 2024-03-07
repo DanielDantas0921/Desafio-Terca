@@ -17,3 +17,12 @@
     border: 1px solid #C5C2C2;
     ;
 }
+@media (max-width: 785px){
+    .groupInput{
+        width: 70vw;
+    }
+
+    .groupInput input{
+        width: 100%;
+    }
+}

@@ -18,3 +18,10 @@
 .btn:hover{
     opacity: 1;
 }
+
+@media (max-width: 785px) {
+    .btn{
+        width:45%;
+        opacity: 1;
+    }
+}
